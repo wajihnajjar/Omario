@@ -1,7 +1,6 @@
 const Excel = require("exceljs");
 const https = require("https");
 const fs = require("fs");
-const { count } = require("console");
 /*
 Answers = [
     "Gafsa" , 
